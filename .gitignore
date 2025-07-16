@@ -1,0 +1,15 @@
+node_modules/
+
+.vscode/
+.idea/
+
+*.log
+npm-debug.log*
+
+dist/
+build/
+out/
+
+.env
+.env.local
+.env.*.local
